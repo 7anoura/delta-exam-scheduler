@@ -1,0 +1,10 @@
+**/.env
+**/.env.*
+**/.venv/
+**/.venv_prod/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.pem
+**/*.key
+.DS_Store
